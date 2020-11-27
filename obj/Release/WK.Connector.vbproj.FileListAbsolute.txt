@@ -1,0 +1,5 @@
+E:\Projetos\Losinox\WK\WK.Connector\bin\WK.Connector.dll
+E:\Projetos\Losinox\WK\WK.Connector\bin\ERPComM.Connector.xml
+E:\Projetos\Losinox\WK\WK.Connector\obj\Release\WK.Connector.dll
+E:\Projetos\Losinox\WK\WK.Connector\obj\Release\ERPComM.Connector.xml
+E:\Projetos\Losinox\WK\WK.Connector\obj\Release\WK.Connector.vbprojAssemblyReference.cache
