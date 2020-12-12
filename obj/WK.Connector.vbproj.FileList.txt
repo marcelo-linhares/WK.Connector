@@ -1,7 +1,0 @@
-bin\WK.Connector.dll
-bin\WK.Connector.pdb
-bin\ERPComM.Connector.xml
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\WK.Connector.dll
-obj\Debug\ERPComM.Connector.xml
-obj\Debug\WK.Connector.pdb
