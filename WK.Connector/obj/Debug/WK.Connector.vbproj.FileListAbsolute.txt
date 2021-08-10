@@ -1,0 +1,8 @@
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\bin\WK.Connector.dll
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\bin\WK.Connector.pdb
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\bin\ERPComM.Connector.xml
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\obj\Debug\WK.Connector.vbproj.AssemblyReference.cache
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\obj\Debug\WK.Connector.vbproj.CoreCompileInputs.cache
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\obj\Debug\WK.Connector.dll
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\obj\Debug\ERPComM.Connector.xml
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.Connector\obj\Debug\WK.Connector.pdb

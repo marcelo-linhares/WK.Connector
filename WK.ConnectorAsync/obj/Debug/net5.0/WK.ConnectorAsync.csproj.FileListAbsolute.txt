@@ -1,0 +1,12 @@
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\bin\Debug\net5.0\WK.ConnectorAsync.deps.json
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\bin\Debug\net5.0\WK.ConnectorAsync.dll
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\bin\Debug\net5.0\ref\WK.ConnectorAsync.dll
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\bin\Debug\net5.0\WK.ConnectorAsync.pdb
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\WK.ConnectorAsync.csproj.AssemblyReference.cache
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\WK.ConnectorAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\WK.ConnectorAsync.AssemblyInfoInputs.cache
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\WK.ConnectorAsync.AssemblyInfo.cs
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\WK.ConnectorAsync.csproj.CoreCompileInputs.cache
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\WK.ConnectorAsync.dll
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\ref\WK.ConnectorAsync.dll
+C:\Users\mcell\Documents\projetos\WK.Connector\WK.ConnectorAsync\obj\Debug\net5.0\WK.ConnectorAsync.pdb
